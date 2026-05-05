@@ -1,14 +1,1 @@
-{
-  "id": "apolomcnetworkofficial",
-  "name": "ApoloMC",
-  "store": "https://www.apolomc.net/",
-  "description": "ApoloMC es el rincón del universo donde la magia de la supervivencia se encuentra con el infinito de las estrellas. Despega hacia una aventura legendaria y reclama tu lugar entre las constelaciones y planetas! 💙🚀",
-  "addresses": ["apolomc.net"],
-  "primaryAddress": "apolomc.net",
-  "minecraftVersions": ["1.19.9", "1.20.1"],
-  "primaryMinecraftVersion": "1.21.1",
-  "primaryColor": "#0841ff",
-  "secondaryColor": "#5b0afc",
-  "gameTypes": ["Survival", "PvP"]
-}
-
+..
